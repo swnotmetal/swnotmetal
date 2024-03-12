@@ -1,5 +1,3 @@
-# swnometal
-
 <h1 align="center">Hi 👋, I'm Shuang</h1>
 <h3 align="center">A passionate inspiring IT professional (on my path to switching from Culture & Business)</h3>
 
