@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shuang</h1>
-<h3 align="center">A passionate inspiring IT professional (on my path to switching from Culture & Business)</h3>
+<h3 align="center">A passionate inspiring IT professional, looking for all possible chances to break into the industry (on my path to switching from Culture & Business)</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swnotmetal" alt="swnotmetal" /></a> </p>
 
