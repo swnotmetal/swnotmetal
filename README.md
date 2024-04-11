@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Full Stack Open University of Helsinki](https://github.com/swnotmetal/UoHfullsackopen)
 
-- 🌱 I’m currently learning **System testing on frontend with cypress**
+- 🌱 I’m currently learning **redux**
 
 - 🤝 I’m looking for help with [my own fun little telegram bot](https://github.com/swnotmetal/telebot)
 
