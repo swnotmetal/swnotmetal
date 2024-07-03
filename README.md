@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Full Stack Open University of Helsinki](https://github.com/swnotmetal/UoHfullsackopen)
 
-- 🌱 I’m currently learning **redux**
+- 🌱 I’m currently learning **TypeScript**
 
 - 🤝 I’m looking for help with [my own fun little telegram bot](https://github.com/swnotmetal/telebot)
 
-- 💬 Ask me about **react, basic C language, JS, Node.js**
+- 💬 Ask me about **react, express.js, JS, Node.js**
 
 - 📫 How to reach me **shuangwumetal@gmail.com**
 
