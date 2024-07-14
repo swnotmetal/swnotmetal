@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Shuang.<br>A passionate aspiring IT professional, looking for chances to break into the industry (original degree: M.A, worked in culture).<br>I am currently grinding on Full-Stack Open by University of Helsinki(working on the 9th credits).<br>Joined in Finnish open UAS studies already in summer 2024 for Business Information Technology/Information Technology, I will be officially pursing the same degree in Laurea UAS at autumn 2024<br>
+Hi 👋, I'm Shuang.<br>A passionate aspiring IT professional, self-taugh programmer. looking for chances to break into the industry (original degree: M.A, worked in culture).<br>I am currently grinding on Full-Stack Open by University of Helsinki(working on the 9th credits).<br>Joined in Finnish open UAS studies already in summer 2024 for Business Information Technology/Information Technology, I will be officially pursing the same degree in Laurea UAS at autumn 2024<br>
 
 
 ## 🌐 Socials:
