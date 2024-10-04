@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Shuang.<br>A passionate aspiring IT professional, self-taught programmer. looking for chances to break into the industry (original degree: M.A, worked in culture).<br>I am currently grinding on Full-Stack Open by University of Helsinki(working on the 9th credits).<br>Since Autumn 2024, I am an enrolled student in BIT in Laurea UAS in Finland.<br>
+Hi 👋, I'm Shuang.<br>A passionate aspiring IT professional, self-taught programmer. looking for chances to break into the industry (original degree: M.A, worked in culture).<br>I am currently grinding on Full-Stack Open by University of Helsinki(working on the 12th credits).<br>Since Autumn 2024, I am an enrolled student in BIT in Laurea UAS in Finland.<br>
 
 
 ## 🌐 Socials:
