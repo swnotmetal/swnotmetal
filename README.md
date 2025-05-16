@@ -1,7 +1,7 @@
 # 💫 About Me:
 Passionate full-stack developer and data-driven enthusiast, developing digital service (BIT) student in Laurea University of Applied Science
 
-🔭 I’m currently working on finishing the last bit of Fullstackopen by University of Helsinki <br>👯 I’m looking to collaborate on DevOps, CI/CD pipelines, docker, node.js backends<br>🤝 I’m looking for help with acquiring an internship <br>🌱 I’m currently learning LLM basics <br>⚡ Fun fact: I have a M.A in Musicology, speak four languages, have the cutest cat.
+🔭 I’m currently working as a software developer intern at Bravori Oy, Helsinki <br> <br>⚡ Fun fact: I have a M.A in Musicology, speak four languages, have the cutest cat.
 
 
 ## 🌐 Socials:
