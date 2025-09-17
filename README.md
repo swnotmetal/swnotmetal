@@ -1,7 +1,7 @@
 # 💫 About Me:
 Passionate full-stack developer and data-driven enthusiast, developing digital service (BIT) student in Laurea University of Applied Science
 
-🔭 I’m currently working on my own AI-powered MVP <br> <br>⚡ Fun fact: I have a M.A in Musicology, speak four languages, have the cutest cat.
+🔭 I’m currently working on my own AI-powered MVP, additionally, learning to fine-tune a LLM through huggingface<br> <br>⚡ Fun fact: I have a M.A in Musicology, speak four languages, have the cutest cat.
 
 
 ## 🌐 Socials:
