@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate full-stack developer and solution engineer. 
+Passionate full-stack developer and AI-solutions engineer. 
 
 🔭 I’m currently working on freelance consulting projects and my own open-source projects <br> <br>⚡ Fun fact: I have a M.A in Musicology, speak four languages, have the cutest cat.
 
