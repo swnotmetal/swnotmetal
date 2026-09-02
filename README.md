@@ -1,13 +1,34 @@
-# 💫 About Me:
-Passionate full-stack developer and AI-solutions engineer. 
+# Hi, I'm Shuang
 
-🔭 I’m currently working on freelance consulting projects and my own open-source projects <br> <br>⚡ Fun fact: I have a M.A in Musicology, speak four languages, have the cutest cat.
+I'm a full-stack developer building web apps, mobile apps, and tools for working with AI.
 
+I work mainly with TypeScript, React, React Native, Node.js, and Python.
 
-## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/shuangwu13) 
+## Projects
 
-# 💻 Tech Stack:
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### [Koma](https://github.com/swnotmetal/Project-Koma) — tools built from problems I ran into
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+An open-source collection of small tools for AI apps and coding agents. My current focus is **Miko**, which can pause a code change when required preparation, such as reading a project Skill, hasn't been recorded. It's in alpha, with development focused on Claude Code and Codex.
+
+[Watch the demo replay](https://koma-demo.swbuilds.workers.dev/)
+
+### [Aido](https://aidoai.org/) — drug information through voice search
+
+A voice-based reference app for nurses and nursing students, using FDA drug information. I built it through alpha, then paused it to reassess demand and the cost of reaching users.
+
+Its input checks, request limits, and document access code became Koma's Gate, Scout, and Core packages.
+
+### [Finnish Healthcare Policy Model](https://huggingface.co/swnometal666/finnish-healthcare-policy-v5) — a model fine-tuning project
+
+I adapted a Finnish language model to healthcare policy text using LoRA, then compared its output with the original model. The project is on Hugging Face with training details and limitations. Its focus is policy and administration.
+
+## Work with me
+
+I'm open to full-stack and AI development roles, freelance projects, and consulting. I can help build an early version of a product, add AI to an existing app, or review a workflow and suggest what to simplify.
+
+**Email:** `zumitnehmen [at] duck [dot] com`  
+[LinkedIn](https://www.linkedin.com/in/shuangwu13/)
+
+---
+
+I also have an MA in Musicology, speak four languages, and have a very cute cat.
