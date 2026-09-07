@@ -6,7 +6,7 @@ I work mainly with TypeScript, React, React Native, Node.js, and Python.
 
 ## Projects
 
-### [Koma](https://github.com/swnotmetal/Project-Koma) — an Zero-trust AI security toolkit built from problems I ran into
+### [Koma](https://github.com/swnotmetal/Project-Koma) — a Zero-trust AI security toolkit built from problems I ran into
 
 An open-source collection of small tools for AI apps and coding agents. My current focus is **Miko**, which can pause a code change when required preparation, such as reading a project Skill, hasn't been recorded. It's in alpha, with development focused on Claude Code and Codex.
 
