@@ -27,7 +27,6 @@ I adapted a Finnish language model to healthcare policy text using LoRA, then co
 I'm open to full-stack and AI development roles, freelance projects, and consulting. I can help build an early version of a product, add AI to an existing app, or review a workflow and suggest what to simplify.
 
 **Email:** `zumitnehmen [at] duck [dot] com`  
-[LinkedIn](https://www.linkedin.com/in/shuangwu13/)
 
 ---
 
